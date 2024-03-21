@@ -4,7 +4,7 @@
 and I have a strong enthusiasm for coding! Let's make the digital space accessible
 
 
-**Shell:**
+**Shell:**            **HTML:**                    
 
 - [ ] Unix-Commands 
 - [ ] Git
