@@ -2,8 +2,21 @@
 - 👀 I’m interested in basketball and coding
 - 🌱 I’m currently learning web development
 and I have a strong enthusiasm for coding! Let's make the digital space accessible
-
-Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">HTML</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">CSS</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">JavaScript</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">React</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">Next.js</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">REST API</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">cloudinary</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">styled-components</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">MongoDB</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">SPSS</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">SQL</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">Figma</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">qualitative research</kbd> <kbd style="background-color: #f0f0f0; color: black; padding: 12px 24px; border-radius: 5px;">digital art</kbd>
+Skills:
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">HTML</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">CSS</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">JavaScript</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">React</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">Next.js</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">REST API</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">cloudinary</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">styled-components</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">MongoDB</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">SPSS</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">SQL</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">Figma</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">qualitative research</span>
+- <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">digital art</span>
 
 
 <!---
