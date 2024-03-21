@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Andreas&color=%23FF0000)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3Cfont+color%3D%22black%22%3EMy%3C%2Ffont%3E+name+is+%3Cfont+color%3D%22yellow%22%3EAndreas%3C%2Ffont%3E+%3Cfont+color%3D%22red%22%3Eand%3C%2Ffont%3E+%3Cfont+color%3D%22white%22%3EI+have%3C%2Ffont%3E)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3Cfont+color%3D%22black%22%3EMy%3C%2Ffont%3E+%3Cfont+color%3D%22red%22%3Ename%3C%2Ffont%3E+%3Cfont+color%3D%22yellow%22%3Eis%3C%2Ffont%3E+%3Cfont+color%3D%22white%22%3EAndreas%3C%2Ffont%3E)](https://git.io/typing-svg)
+
 
 - 👀 I’m interested in basketball and coding
 - 🌱 I’m currently learning web development
