@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning web development
 and I have a strong enthusiasm for coding! Let's make the digital space accessible
 
-Skills:   <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">Shell</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">HTML</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">CSS</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">JavaScript</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">React</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">Next.js</kbd>  Skills: <kbd style="background-color: #f0f0f0; color: black; padding: 3px 6px; border-radius: 3px;">Backend</kbd>  
-
 
 <!---
 Andreas-Gottwald/Andreas-Gottwald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
