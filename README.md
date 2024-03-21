@@ -4,17 +4,19 @@
 and I have a strong enthusiasm for coding! Let's make the digital space accessible
 
 
-**Shell**
+**Shell:**
+
 Unix-Commands 
 Git
 
-**HTML**
+**HTML:**
+
 Semantic Elements
 Forms and Inputs
 Responsive Web Design
 Accessibility
 
-**CSS**
+**CSS:**
 Selectors 
 Specificity 
 Media Queries 
@@ -22,7 +24,7 @@ Layout
 Tooling 
 Frameworks
 
-**JavaScript**
+**JavaScript:**
 ECMAScript (latest)
 Events
 DOM Manipulation
@@ -33,7 +35,7 @@ Tooling
 Debugging
 Unit Testing
 
-**React (latest)**
+**React (latest):**
 Function Components
 Hooks
 State Management
@@ -41,25 +43,25 @@ CSS in JS
 Controlled Components
 Styled-Components
 
-**Next.js**
+**Next.js:**
 SWR
 Routing
 Dynamic routing
 
-**Backend**
+**Backend:**
 Node.js
 RESTful APIs
 Routing
 DB Schemas and Models
 Tooling Deployment
 
-**Tools**
+**Tools:**
 VSCode
 Slack
 Zoom
 GitHub Projects 
 
-**Further teaching contents**
+**Further teaching contents:**
 Clean Code
 Pair Programming 
 Working in Teams
