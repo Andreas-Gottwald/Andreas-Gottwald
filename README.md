@@ -22,80 +22,65 @@ and I have a strong enthusiasm for coding! Let's make the digital space accessib
 - [ ] Specificity 
 - [ ] Media Queries 
 - [ ] Layout 
-Tooling 
-Frameworks
+- [ ] Tooling 
+- [ ] Frameworks
 
 **JavaScript:**
 
-ECMAScript (latest)
-Events
-DOM Manipulation
-Browser APIs
-Array Methods
-Async Programming 
-Tooling
-Debugging
-Unit Testing
+- [ ] ECMAScript (latest)
+- [ ] Events
+- [ ] DOM Manipulation
+- [ ] Browser APIs
+- [ ] Array Methods
+- [ ] Async Programming 
+- [ ] Tooling
+- [ ] Debugging
+- [ ] Unit Testing
 
 **React (latest):**
 
-Function Components
-Hooks
-State Management
-CSS in JS
-Controlled Components
-Styled-Components
+- [ ] Function Components
+- [ ] Hooks
+- [ ] State Management
+- [ ] CSS in JS
+- [ ] Controlled Components
+- [ ] Styled-Components
 
 **Next.js:**
 
-SWR
-Routing
-Dynamic routing
+- [ ] SWR
+- [ ] Routing
+- [ ] Dynamic routing
 
 **Backend:**
 
-Node.js
-RESTful APIs
-Routing
-DB Schemas and Models
-Tooling Deployment
+- [ ] Node.js
+- [ ] RESTful APIs
+- [ ] Routing
+- [ ] DB Schemas and Models
+- [ ] Tooling Deployment
 
 **Tools:**
 
-VSCode
-Slack
-Zoom
-GitHub Projects 
+- [ ] VSCode
+- [ ] Slack
+- [ ] Zoom
+- [ ] GitHub Projects 
 
 **Further teaching contents:**
 
-Clean Code
-Pair Programming 
-Working in Teams
-Development Workflow
-Research
-UI/UX Basics
-Agile Methods
-Product Development
-Career Coaching
+- [ ] Clean Code
+- [ ] Pair Programming 
+- [ ] Working in Teams
+- [ ] Development Workflow
+- [ ] Research
+- [ ] UI/UX Basics
+- [ ] Agile Methods
+- [ ] Product Development
+- [ ] Career Coaching
 
 
 
-Skills:
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] React
-- [ ] Next.js
-- [ ] REST API
-- [ ] cloudinary
-- [ ] styled-components
-- [ ] MongoDB
-- [ ] SPSS
-- [ ] SQL
-- [ ] Figma
-- [ ] qualitative research
-- [ ] digital art
 
 
 
