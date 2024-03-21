@@ -2,6 +2,8 @@
 - 👀 I’m interested in basketball and coding
 - 🌱 I’m currently learning web development
 and I have a strong enthusiasm for coding! Let's make the digital space accessible
+
+
 Skills:
 - <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">HTML</span>
 - <span style="background-color: #f0f0f0; padding: 3px 6px; border-radius: 3px;">CSS</span>
