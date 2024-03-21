@@ -5,34 +5,70 @@ and I have a strong enthusiasm for coding! Let's make the digital space accessib
 
 
 **Shell**
-Unix-Commands Git
+Unix-Commands 
+Git
 
 **HTML**
-Semantic Elements Forms and Inputs Responsive Web Design Accessibility
+Semantic Elements
+Forms and Inputs
+Responsive Web Design
+Accessibility
 
 **CSS**
-Selectors Specificity Media Queries Layout Tooling Frameworks
+Selectors 
+Specificity 
+Media Queries 
+Layout 
+Tooling 
+Frameworks
 
 **JavaScript**
-ECMAScript (latest) Events DOM Manipulation Browser APIs Array Methods Async Programming Tooling Debugging Unit Testing
+ECMAScript (latest)
+Events
+DOM Manipulation
+Browser APIs
+Array Methods
+Async Programming 
+Tooling
+Debugging
+Unit Testing
 
 **React (latest)**
-Function Components Hooks State Management CSS in JS Controlled Components Styled-Components
+Function Components
+Hooks
+State Management
+CSS in JS
+Controlled Components
+Styled-Components
 
 **Next.js**
-SWR Routing Dynamic routing
+SWR
+Routing
+Dynamic routing
 
 **Backend**
-Node.js RESTful APIs Routing DB Schemas and Models Tooling Deployment
+Node.js
+RESTful APIs
+Routing
+DB Schemas and Models
+Tooling Deployment
 
 **Tools**
-VSCode Slack Zoom GitHub Projects Further teaching contents
+VSCode
+Slack
+Zoom
+GitHub Projects 
 
-**Clean Code**
-Pair Programming Working in Teams Development Workflow Research
-
-**UI/UX Basics**
-Agile Methods Product Development Career Coaching
+**Further teaching contents**
+Clean Code
+Pair Programming 
+Working in Teams
+Development Workflow
+Research
+UI/UX Basics
+Agile Methods
+Product Development
+Career Coaching
 
 
 
