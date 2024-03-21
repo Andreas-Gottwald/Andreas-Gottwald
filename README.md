@@ -5,23 +5,23 @@ and I have a strong enthusiasm for coding! Let's make the digital space accessib
 
 
 **Shell:**
-- [ ] HTML
-Unix-Commands 
-Git
+
+- [ ] Unix-Commands 
+- [ ] Git
 
 **HTML:**
 
-Semantic Elements
-Forms and Inputs
-Responsive Web Design
-Accessibility
+- [ ] Semantic Elements
+- [ ] Forms and Inputs
+- [ ] Responsive Web Design
+- [ ] Accessibility
 
 **CSS:**
 
-Selectors 
-Specificity 
-Media Queries 
-Layout 
+- [ ] Selectors 
+- [ ] Specificity 
+- [ ] Media Queries 
+- [ ] Layout 
 Tooling 
 Frameworks
 
