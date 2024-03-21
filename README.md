@@ -6,7 +6,7 @@ and I have a strong enthusiasm for coding! Let's make the digital space accessib
 
 **Shell:**
 
-Unix-Commands 
+[] Unix-Commands 
 Git
 
 **HTML:**
