@@ -17,6 +17,7 @@ Responsive Web Design
 Accessibility
 
 **CSS:**
+
 Selectors 
 Specificity 
 Media Queries 
@@ -25,6 +26,7 @@ Tooling
 Frameworks
 
 **JavaScript:**
+
 ECMAScript (latest)
 Events
 DOM Manipulation
@@ -36,6 +38,7 @@ Debugging
 Unit Testing
 
 **React (latest):**
+
 Function Components
 Hooks
 State Management
@@ -44,11 +47,13 @@ Controlled Components
 Styled-Components
 
 **Next.js:**
+
 SWR
 Routing
 Dynamic routing
 
 **Backend:**
+
 Node.js
 RESTful APIs
 Routing
@@ -56,12 +61,14 @@ DB Schemas and Models
 Tooling Deployment
 
 **Tools:**
+
 VSCode
 Slack
 Zoom
 GitHub Projects 
 
 **Further teaching contents:**
+
 Clean Code
 Pair Programming 
 Working in Teams
